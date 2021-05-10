@@ -1,0 +1,64 @@
+/* Add your styles here */
+
+.card mb-3{
+
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+.titulo{
+  text-align: center;
+  background-color: black;
+  color: white;
+  margin:0%;
+  padding:0%;
+}
+
+
+.card-img-top{
+  height: 15%;
+  width: 100%;
+}
+
+
+
+h1 {
+  
+  text-align: center;
+  font-size: 1.75rem;
+  margin: 0 0 0.75rem 0;
+}
+
+h2 {
+  
+  text-align: center;
+  font-size: 1.50rem;
+  margin: 0 0 0.75rem 0;
+}
+
+/* Pattern styles */
+.left-half {
+  background-color: #ff9e2c;
+  float: left;
+  width: 44%;
+  height: 500px;
+  margin-top: -1%; 
+  padding:3%;
+}
+.right-half {
+  background-color: #b6701e;
+  float: left;
+  width: 44%;
+  height: 500px;
+  margin-top: -1%;
+  padding:3%;
+}
+
+p{
+  text-align: justify;
+}
+
+li{
+  text-align: left;
+}
